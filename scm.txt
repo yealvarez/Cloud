@@ -1,0 +1,17 @@
+.env
+.inc
+.config
+.yml
+.yaml
+.svn/
+.git/
+.hg
+.well-known/
+/uploader-service.js
+travis.yml
+.travis.yml
+JENKINSFILE
+jenkinsfile
+.circlei
+config.yml
+drone.yml
