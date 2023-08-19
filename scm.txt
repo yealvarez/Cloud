@@ -15,3 +15,5 @@ jenkinsfile
 .circlei
 config.yml
 drone.yml
+secret.txt
+secret.xlsx
