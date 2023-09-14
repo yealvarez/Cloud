@@ -1,0 +1,5 @@
+Buckets names
+https://storage.googleapis.com/storage/v1/bq-import-datasets
+https://storage.cloud.google.com/
+gs://org_name/bucket_name
+gs://org_name/project_name/bucket_name
