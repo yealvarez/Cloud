@@ -8,6 +8,8 @@
 .hg
 .well-known/
 /uploader-service.js
+/healthcheck
+/helloworld
 travis.yml
 .travis.yml
 JENKINSFILE
