@@ -7,9 +7,10 @@
 .git/
 .hg
 .well-known/
-/uploader-service.js
-/healthcheck
-/helloworld
+uploader-service.js
+healthcheck
+helloworld
+humans.txt
 travis.yml
 .travis.yml
 JENKINSFILE
