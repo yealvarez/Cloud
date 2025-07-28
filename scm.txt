@@ -1,6 +1,8 @@
 .env
 .inc
 .config
+_config.js
+config.js
 .yml
 .yaml
 .svn/
