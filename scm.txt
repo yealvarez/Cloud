@@ -22,7 +22,11 @@ config.yml
 drone.yml
 secret.txt
 secret.xlsx
+self
 key
 keys
 keykey
 fetch
+api/health-check/self
+api/health-check
+health-check/self
